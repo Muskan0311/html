@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>snowdrop</title>
+</head>
+<body>
+    
+    <br>
+    <p> the life in the college is different from the life in school</p>
+    <br>
+    <p>recently i have stepped into the college </p>
+    <br>
+    <p> good thinker can do anything</p>
+    <br>
+    <p>my talent is that i can write a whole topic by a single word</p>
+    <br>
+    <p>nothing to write</p>
+    <br>
+    <a href="https://www.google.com">google</a>
+    <br>
+    <pre>1.dir=it is responsible for the directional flow of elements of your html webpage
+      this is of two types:-1 ltr 2 rtl
+      2.lang = it stands for language . 
+      it defines the language used (default) in your html document 
+      3.xml:lang=this attribute is the xhtml replacement for the language attribute.
+      the value of this attribute should be an iso 639 country  </pre>
+      <br>
+      <html>
+      <br>
+      
+ <body style="background-color:purple;" > 
+ <p style="color:rgb(255, 153, 0);font-style:italic;font-size:250px;family:....;background-color:black;">MUSKAN</p>"
+ <embed src="https://youtu.be/HcOc7P5BMi4">youtube</embed>
+ <marquee behavior="alternate" bgcolor="pink" direction="right" style="color:aqua" height="100" font="size:100px"><a href="C:\Users\Navneet\OneDrive\Desktop\html tutorial\BTECH Notes (1).pdf"><b>this is class</b></marquee>
+ <marquee behavior="slide" bgcolor="blue" direction="right" loop="5" style="color:aqua" height="100" font-size="100px"><i>this is class</i></marquee>
+ <marquee behavior="scroll" bgcolor="green" direction="right" style="color:brown" height="100" font-size="100px">class</marquee>
+ <h1>x<sub>th</sub>
+ x<sup>th</sup></h1>
+<!--comments-->
+<blockquote cite="https://youtu.be/3bZoB8PiXas">a b c <br> x y z a b a</blockquote>
+<q>quote and it shows quotations</q>
+<p>The <abbr title="World Health Organisation">WHO</abbr>was founded in 1948</p>
+<address>
+    written by john doe.<br>
+    visit us at:5pm<br>
+    example.com<br>
+    box564,disneyland<br>
+    usa
+</address>
+<p><cite>The Scream</cite> by Edward Munch.Painted in1983</p>
+<bdo dir="rtl">this text will be written from right to left</bdo>
+
+
+
+
+
+</body>
+</html>
